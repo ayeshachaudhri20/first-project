@@ -1,2 +1,2 @@
 # first-project
-Build An HTML5 Website With A Responsive Layout
+An HTML5 Website With A Responsive Layout
